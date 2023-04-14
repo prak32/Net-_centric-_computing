@@ -1,0 +1,8 @@
+C:\Net-_centric-_computing\C#\Lab1\bin\Debug\Lab1.exe.config
+C:\Net-_centric-_computing\C#\Lab1\bin\Debug\Lab1.exe
+C:\Net-_centric-_computing\C#\Lab1\bin\Debug\Lab1.pdb
+C:\Net-_centric-_computing\C#\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Net-_centric-_computing\C#\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Net-_centric-_computing\C#\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Net-_centric-_computing\C#\Lab1\obj\Debug\Lab1.exe
+C:\Net-_centric-_computing\C#\Lab1\obj\Debug\Lab1.pdb
